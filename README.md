@@ -1,2 +1,0 @@
-# TSP-THE-SHADOW-PROJECT
-tsp 
