@@ -20,5 +20,3 @@ r16 = requests.get("http://martinriley.wixsite.com/ace1")
 
 while e < 10:
     print(r1, r2, r3, r4, r5, r6, r8, r9, r10, r11, r12, r13, r15, r16)
-else:
-    print("Errorcode: 404")
